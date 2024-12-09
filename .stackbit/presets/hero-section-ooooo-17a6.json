@@ -1,0 +1,49 @@
+{
+    "model": "HeroSection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "ooooo",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "pp"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "Hero Title----",
+                "subtitle": "Featuring TypeScript, Next.js, MUI v5 & Emotion",
+                "text": "This is the HeroSection component. You can visually edit this component & add more sections while developing locally. [Learn more.](https://docs.netlify.com/visual-editor/local-development/)\n",
+                "actions": [
+                    {
+                        "$$type": "Button",
+                        "label": "Start Building",
+                        "url": "https://docs.netlify.com/visual-editor/get-started/",
+                        "size": "large",
+                        "variant": "contained",
+                        "color": "primary"
+                    },
+                    {
+                        "$$type": "Button",
+                        "label": "Read the Docs",
+                        "url": "https://docs.netlify.com/visual-editor/overview/",
+                        "size": "large",
+                        "variant": "outlined",
+                        "color": "primary"
+                    }
+                ],
+                "image": {
+                    "$$type": "Image",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/hero.svg",
+                        "$$type": "__asset_model"
+                    },
+                    "altText": "Hero section image"
+                }
+            },
+            "thumbnail": "images/hero-section-ooooo-17a6.png"
+        }
+    ]
+}
