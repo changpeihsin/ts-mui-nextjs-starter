@@ -1,0 +1,34 @@
+{
+    "model": "HeroSection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "okoko",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "e"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "Example for H2 headline",
+                "subtitle": "This is the subtitle",
+                "text": "This is **Markdown** *text*.\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n",
+                "actions": [
+                    {
+                        "$$type": "Button",
+                        "label": "Learn more000000",
+                        "url": "/yahoo",
+                        "size": "medium",
+                        "variant": "text",
+                        "color": "primary"
+                    }
+                ],
+                "image": null
+            },
+            "thumbnail": "images/hero-section-okoko-fd12.png"
+        }
+    ]
+}
