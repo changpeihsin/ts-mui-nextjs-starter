@@ -1,6 +1,6 @@
 ---
 type: Page
-title: About
+title: test yahoo
 sections:
   - type: HeroSection
     title: Example for H2 headline
