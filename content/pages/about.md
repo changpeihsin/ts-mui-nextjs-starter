@@ -14,6 +14,13 @@ sections:
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
       veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
       commodo consequat.
+    actions:
+      - type: Button
+        label: Learn more000000
+        url: /yahoo
+        size: medium
+        variant: text
+        color: primary
   - type: CardsSection
     title: Cards Section Title
     subtitle: The section subtitle
