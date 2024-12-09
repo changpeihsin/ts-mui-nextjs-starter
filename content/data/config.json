@@ -9,7 +9,7 @@
                 "label": "Home",
                 "url": "/",
                 "underline": "none",
-                "color": "secondary"
+                "color": "primary"
             },
             {
                 "type": "Link",
