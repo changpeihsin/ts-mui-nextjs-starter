@@ -104,6 +104,12 @@ sections:
         size: medium
         variant: text
         color: primary
+      - type: Button
+        label: to page1
+        url: /page1
+        size: medium
+        variant: text
+        color: primary
   - type: HeroSection
     title: This Is A Big Hero Headline
     subtitle: The section subtitle
