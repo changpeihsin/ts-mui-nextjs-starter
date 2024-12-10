@@ -107,7 +107,7 @@ sections:
       - type: Button
         label: to page1
         url: /page1
-        size: medium
+        size: large
         variant: text
         color: primary
   - type: HeroSection
