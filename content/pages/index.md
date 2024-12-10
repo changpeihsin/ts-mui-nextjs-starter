@@ -108,7 +108,7 @@ sections:
         label: to page1
         url: /page1
         size: large
-        variant: text
+        variant: outlined
         color: primary
   - type: HeroSection
     title: This Is A Big Hero Headline
