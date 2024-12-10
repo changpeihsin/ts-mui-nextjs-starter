@@ -70,7 +70,7 @@ sections:
             variant: text
             color: primary
   - type: HeroSection
-    title: Hero Title----
+    title: Hero Title----000
     subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
     text: >
       This is the HeroSection component. You can visually edit this component &
@@ -94,7 +94,7 @@ sections:
       url: /images/hero.svg
       altText: Hero section image
   - type: HeroSection
-    title: Hero Title----000
+    title: Hero Title----
     subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
     text: >
       This is the HeroSection component. You can visually edit this component &
