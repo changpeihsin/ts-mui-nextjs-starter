@@ -94,7 +94,7 @@ sections:
       url: /images/hero.svg
       altText: Hero section image
   - type: HeroSection
-    title: Example for H2 headline
+    title: Buttons
     subtitle: This is the subtitle
     text: >
       This is **Markdown** *text*.
