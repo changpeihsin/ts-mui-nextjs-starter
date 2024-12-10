@@ -95,7 +95,7 @@ sections:
       altText: Hero section image
   - type: HeroSection
     title: Buttons
-    subtitle: This is the subtitle
+    subtitle: ''
     text: >
       This is **Markdown** *text*.
 
