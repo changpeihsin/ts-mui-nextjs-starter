@@ -8,7 +8,8 @@
                 "type": "Link",
                 "label": "Home",
                 "url": "/",
-                "underline": "hover"
+                "underline": "none",
+                "color": "primary"
             },
             {
                 "type": "Link",
@@ -20,7 +21,8 @@
                 "type": "Link",
                 "label": "Documentation",
                 "url": "https://docs.netlify.com/visual-editor/overview/",
-                "underline": "hover"
+                "underline": "always",
+                "color": "secondary"
             }
         ]
     },
