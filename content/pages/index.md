@@ -109,7 +109,7 @@ sections:
         url: /page1
         size: large
         variant: outlined
-        color: primary
+        color: inherit
   - type: HeroSection
     title: This Is A Big Hero Headline
     subtitle: The section subtitle
