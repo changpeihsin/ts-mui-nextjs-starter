@@ -15,7 +15,7 @@ sections:
         url: 'https://docs.netlify.com/visual-editor/overview/'
         size: medium
         variant: text
-        color: primary
+        color: secondary
       - type: Button
         label: Start Building
         url: 'https://docs.netlify.com/visual-editor/get-started/'
