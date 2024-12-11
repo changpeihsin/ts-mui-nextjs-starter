@@ -188,7 +188,7 @@ sections:
       itae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     actions:
       - type: Button
-        label: Start Building
+        label: Start To Edit！
         url: 'https://create.netlify.com/studio/67569a6ab3afb200c3c19dbf'
         size: large
         variant: contained
