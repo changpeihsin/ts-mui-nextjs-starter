@@ -189,7 +189,7 @@ sections:
     actions:
       - type: Button
         label: Start Building
-        url: 'https://docs.netlify.com/visual-editor/get-started/'
+        url: 'https://create.netlify.com/studio/67569a6ab3afb200c3c19dbf'
         size: large
         variant: contained
         color: primary
