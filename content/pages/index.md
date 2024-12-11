@@ -13,7 +13,7 @@ sections:
       - type: Button
         label: Read the Docs
         url: 'https://docs.netlify.com/visual-editor/overview/'
-        size: large
+        size: medium
         variant: outlined
         color: primary
       - type: Button
