@@ -1,4 +1,5 @@
 import { Model } from '@stackbit/types';
+// console.log(Model)
 
 export const ThemeStyle: Model =  {
     type: 'data',
@@ -15,7 +16,9 @@ export const ThemeStyle: Model =  {
             controlType: 'button-group',
             options: [
                 { label: 'Light', value: 'light' },
-                { label: 'Dark', value: 'dark' }
+                { label: 'Dark', value: 'dark' },
+                // { label: 'MiddleDark', value: 'middleDark' }
+
             ],
             default: 'light'
         },

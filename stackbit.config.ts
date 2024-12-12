@@ -14,6 +14,7 @@ const gitContentSource = new GitContentSource({
     }
 });
 
+console.log({gitContentSource})
 export const sbConfig = defineStackbitConfig({
     stackbitVersion: '~0.6.0',
     ssgName: 'nextjs',
@@ -23,7 +24,15 @@ export const sbConfig = defineStackbitConfig({
         type: 'files',
         presetDirs: ['.stackbit/presets']
     },
-    styleObjectModelName: 'ThemeStyle'
+    styleObjectModelName: 'ThemeStyle',
+    sidebarButtons: [
+        {
+            label: "External link",
+            type: "link",
+            icon: "user-management",
+            url: "my-live-site.com"
+          }
+      ]
 });
 
 export default sbConfig;
